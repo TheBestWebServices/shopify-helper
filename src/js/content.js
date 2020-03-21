@@ -1,3 +1,3 @@
 !function() {
-  document.querySelector('#AppFrameMain footer').remove();
+  document.querySelector('#AppFrameMain footer').style.display = 'none';
 }();
