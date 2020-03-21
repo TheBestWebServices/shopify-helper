@@ -32,7 +32,7 @@
   "content_scripts": [
     {
       "matches": [
-        "http://*.myshopify.com/*"
+        "https://*.myshopify.com/*"
       ],
       "js": [
         "js/content.js"
