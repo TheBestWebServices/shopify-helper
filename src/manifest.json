@@ -7,10 +7,6 @@
 
   "version": "0.0.1",
 
-  "permissions": [
-    "activeTab"
-  ],
-
   "web_accessible_resources": [
     "img/icon48.png",
     "img/icon128.png"
