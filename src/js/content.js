@@ -1,3 +1,7 @@
 !function() {
-  document.querySelector('#AppFrameMain footer').style.display = 'none';
+  const yellowFooter = document.querySelector('#AppFrameMain footer');
+
+  if (yellowFooter) {
+    yellowFooter.style.display = 'none';
+  }
 }();
