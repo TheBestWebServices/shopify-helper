@@ -1,6 +1,6 @@
 ## Shopify helper
 
-Available in [Chrome Web Store](https://chrome.google.com/webstore/)
+Available in [Chrome Web Store](https://chrome.google.com/webstore/detail/shopify-helper/combkjclfeicbahpaobeejldpnjmgedn)
 
 ### Make a build
 1. ```npm ci```
