@@ -12,7 +12,6 @@
   "devDependencies": {
     "del": "^8.0.0",
     "gulp": "^5.0.0",
-    "gulp-debug": "^5.0.1",
-    "require-dir": "^1.2.0"
+    "gulp-debug": "^5.0.1"
   }
 }
