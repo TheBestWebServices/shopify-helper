@@ -6,13 +6,13 @@
     "build": "gulp",
     "watch": "gulp watch"
   },
+  "type": "module",
   "author": "The Best Web Services <thebestwebservices@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "del": "^5.1.0",
-    "gulp": "^4.0.2",
-    "gulp-debug": "^4.0.0",
+    "del": "^8.0.0",
+    "gulp": "^5.0.0",
+    "gulp-debug": "^5.0.1",
     "require-dir": "^1.2.0"
-  },
-  "dependencies": {}
+  }
 }
