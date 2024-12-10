@@ -3,7 +3,7 @@
   "name" : "__MSG_ext_name__",
   "description": "__MSG_ext_description__",
   "default_locale" : "en",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "web_accessible_resources": [
     {
       "resources": [
@@ -15,7 +15,7 @@
       ]
     }
   ],
-  "browser_action": {
+  "action": {
     "default_title": "__MSG_ext_name__",
     "default_popup": "popup.html"
   },
